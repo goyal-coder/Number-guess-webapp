@@ -47,7 +47,7 @@ while (true) {
 
             // Share Feature
             function shareWin() {
-                const shareText = "🎉 I just won the Ultimate Number Guessing Game! Try it now on ";
+                const shareText = "🎉 I just won the Ultimate Number Guessing Game! Try it now !! ";
                 const shareURL = window.location.href;
 
                 if (navigator.share) {
